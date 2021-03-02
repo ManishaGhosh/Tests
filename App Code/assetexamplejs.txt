@@ -21,12 +21,7 @@ export default function AssetExample() {
       {isLoading ? (
         <Text>Loading...</Text>
       ) : (
-        <View
-          style={{
-            flex: 1,
-            flexDirection: 'column',
-            justifyContent: 'space-between',
-          }}>
+        <View>
           <FlatList
             data={data.articles}
             keyExtractor={({ id }, index) => id}
