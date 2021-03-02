@@ -2,8 +2,8 @@
   "title": "All Words",
   "description": "Fetch remote data from Adhithi's blog",
   "articles": [
-    { "id": "1", "word": "a cappella" },
-    { "id": "2", "word": "ahorse" },
-    { "id": "3", "word": "anisotropically" }
+    { "id": "1", "mainword": "a cappella" },
+    { "id": "2", "mainword": "ahorse" },
+    { "id": "3", "mainword": "anisotropically" }
   ]
 }
