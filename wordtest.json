@@ -1,7 +1,5 @@
 {
   "articles": [
-    { "id": "1", "title": "a cappella", "meaning": "means smthng"},
-    { "id": "2", "title": "ahorse", "meaning": "means smthng" },
-    { "id": "3", "title": "anisotropically", "meaning": "means smthng" }
+    { "id": "1", "title": "a cappella", "meaning": "means smthng"}
   ]
 }
