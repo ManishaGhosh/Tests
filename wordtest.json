@@ -1,8 +1,9 @@
 {
   "title": "All Words",
-  "words": [
-        {"id":"1", "word":"a cappella", "meaning":"without musical accompaniment"},
-        {"id":"2", "word":"ahorse", "meaning":"on the back of a horse"},
-        {"id":"3", "word":"anisotropically", "meaning":"in an anisotropic manner"}
-]															
+  "description": "Fetch remote data from Adhithi's blog",
+  "articles": [
+    { "id": "1", "title": "a cappella" },
+    { "id": "2", "title": "ahorse" },
+    { "id": "3", "title": "anisotropically" }
+  ]
 }
